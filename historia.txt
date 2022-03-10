@@ -1,1 +1,4 @@
 Hola soy Laura, tengo 20 años
+
+le gusta prender de front-end
+también de ux/ui
